@@ -102,6 +102,83 @@ Kollaborative Lesezeichen-Manager wie Linkwarden ermöglichen es Ihnen, wichtige
 
 
 
+## ❓FAQ 
+<div style="width:100%;height:0;padding-bottom:101%;position:relative;"><iframe src="https://giphy.com/embed/hGRlr5VjYsTVZOcWm3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/wind-answer-question-mark-hGRlr5VjYsTVZOcWm3">via GIPHY</a></p>
+
+Hier ist das FAQ zum Programm Linkwarden, das für nicht technik-affine Benutzer*innen leicht verständlich ist. Dieses FAQ verwendet Liascript zur Darstellung als ausklappbare Liste.
+
+```markdown
+# FAQ zu Linkwarden
+
+## Was ist Linkwarden?
+
+Linkwarden ist ein Programm, das dir hilft, deine Lesezeichen und Weblinks zu verwalten. Du kannst Links speichern, organisieren und schnell wiederfinden.
+
+<details>
+  <summary>Wie installiere ich Linkwarden?</summary>
+  
+  Du kannst Linkwarden über die offizielle Webseite herunterladen und installieren. Folge den Anweisungen auf der Webseite oder im Installationsprogramm.
+
+</details>
+
+<details>
+  <summary>Wie füge ich einen neuen Link hinzu?</summary>
+  
+  Um einen neuen Link hinzuzufügen, öffne Linkwarden und klicke auf die Schaltfläche „Neuer Link“. Gib die URL des Links und eine Beschreibung ein. Du kannst den Link auch einer Kategorie zuweisen, um ihn leichter wiederzufinden.
+
+</details>
+
+<details>
+  <summary>Wie finde ich einen gespeicherten Link wieder?</summary>
+  
+  Du kannst gespeicherte Links über die Suchleiste in Linkwarden finden. Gib einfach ein Stichwort oder einen Teil der URL ein, und die passenden Links werden angezeigt.
+
+</details>
+
+<details>
+  <summary>Wie organisiere ich meine Links?</summary>
+  
+  Du kannst deine Links in Kategorien organisieren. Erstelle neue Kategorien und verschiebe Links in die gewünschten Kategorien. So behältst du den Überblick über deine gespeicherten Links.
+
+</details>
+
+<details>
+  <summary>Kann ich meine Links mit anderen teilen?</summary>
+  
+  Ja, du kannst Links mit anderen teilen. Wähle einfach den Link aus, den du teilen möchtest, und klicke auf „Teilen“. Du erhältst einen Freigabelink, den du mit anderen teilen kannst.
+
+</details>
+
+<details>
+  <summary>Wie sichere ich meine Links?</summary>
+  
+  Linkwarden bietet eine Backup-Funktion. Du kannst regelmäßig Backups deiner Links erstellen und diese an einem sicheren Ort speichern. So gehen deine Links nicht verloren.
+
+</details>
+
+<details>
+  <summary>Was mache ich, wenn ich Probleme mit Linkwarden habe?</summary>
+  
+  Wenn du Probleme mit Linkwarden hast, kannst du den Support kontaktieren. Besuche die Support-Seite auf der offiziellen Webseite und beschreibe dein Problem. Das Support-Team hilft dir weiter.
+
+</details>
+
+<details>
+  <summary>Wie aktualisiere ich Linkwarden?</summary>
+  
+  Linkwarden informiert dich automatisch, wenn es Updates gibt. Folge den Anweisungen im Programm, um die neueste Version zu installieren und von Verbesserungen zu profitieren.
+
+</details>
+```
+
+Dieses FAQ ist so gestaltet, dass Benutzer*innen die häufigsten Fragen und Antworten leicht finden und verstehen können. Es nutzt die einfache Ausklappliste von Liascript, um die Informationen übersichtlich darzustellen.
+
+
+
+
+
+
+
 # ❣️ Best Practice Beispiel(e)
 
 # 📈 Alles ist im Wandel
